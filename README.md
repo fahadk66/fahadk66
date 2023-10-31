@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fahadk66
 - 👀 I’m interested in Databases, Machine Learning 
-- 🌱 I’m currently learning Full Stack Developer
+  
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me khanfahadazamali@gmail.com
 
