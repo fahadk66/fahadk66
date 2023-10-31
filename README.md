@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @fahadk66
 - 👀 I’m interested in Databases, Machine Learning 
   
-<!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 How to reach me khanfahadazamali@gmail.com
+
 
 <!---
 fahadk66/fahadk66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
